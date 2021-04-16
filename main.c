@@ -41,14 +41,6 @@ bool isKeyword(char ch[]) {
 
     return false;
 
-
-
-
-
-//    if (ch == "nn") {
-//        return true;
-//    }
-//    return false;
 }
 
 
