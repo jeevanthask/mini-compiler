@@ -92,12 +92,12 @@ clean: CMakeFiles/Mini_Compiler.dir/clean
 CMakeFiles/Mini_Compiler.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Mini_Compiler.dir\build.make CMakeFiles/Mini_Compiler.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Mini_Compiler.dir\build.make CMakeFiles/Mini_Compiler.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\MIGHTY SOYYA\current projects\Mini Compiler\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Mini_Compiler"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\MIGHTY SOYYA\current projects\Mini Compiler\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target Mini_Compiler"
 .PHONY : CMakeFiles/Mini_Compiler.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Mini_Compiler.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "F:\MIGHTY SOYYA\current projects\Mini Compiler\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\MIGHTY SOYYA\current projects\Mini Compiler\cmake-build-debug\CMakeFiles" 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Mini_Compiler.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "F:\MIGHTY SOYYA\current projects\Mini Compiler\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Mini_Compiler.dir/rule

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Mini_Compiler.dir/flow.c.obj"
   "CMakeFiles/Mini_Compiler.dir/main.c.obj"
   "Mini_Compiler.exe"
   "Mini_Compiler.exe.manifest"

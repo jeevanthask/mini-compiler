@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/MIGHTY SOYYA/current projects/Mini Compiler/flow.c">
+			<Option target="Mini_Compiler"/>
+		</Unit>
 		<Unit filename="F:/MIGHTY SOYYA/current projects/Mini Compiler/main.c">
 			<Option target="Mini_Compiler"/>
 		</Unit>

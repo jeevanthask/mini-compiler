@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "F:/MIGHTY SOYYA/current projects/Mini Compiler/flow.c" "F:/MIGHTY SOYYA/current projects/Mini Compiler/cmake-build-debug/CMakeFiles/Mini_Compiler.dir/flow.c.obj"
   "F:/MIGHTY SOYYA/current projects/Mini Compiler/main.c" "F:/MIGHTY SOYYA/current projects/Mini Compiler/cmake-build-debug/CMakeFiles/Mini_Compiler.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

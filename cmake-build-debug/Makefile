@@ -141,6 +141,33 @@ Mini_Compiler/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Mini_Compiler.dir\build.make CMakeFiles/Mini_Compiler.dir/build
 .PHONY : Mini_Compiler/fast
 
+flow.obj: flow.c.obj
+
+.PHONY : flow.obj
+
+# target to build an object file
+flow.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Mini_Compiler.dir\build.make CMakeFiles/Mini_Compiler.dir/flow.c.obj
+.PHONY : flow.c.obj
+
+flow.i: flow.c.i
+
+.PHONY : flow.i
+
+# target to preprocess a source file
+flow.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Mini_Compiler.dir\build.make CMakeFiles/Mini_Compiler.dir/flow.c.i
+.PHONY : flow.c.i
+
+flow.s: flow.c.s
+
+.PHONY : flow.s
+
+# target to generate assembly for a file
+flow.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Mini_Compiler.dir\build.make CMakeFiles/Mini_Compiler.dir/flow.c.s
+.PHONY : flow.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -177,6 +204,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Mini_Compiler
+	@echo ... flow.obj
+	@echo ... flow.i
+	@echo ... flow.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

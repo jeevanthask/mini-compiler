@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/MIGHTY SOYYA/current projects/Mini Compiler/main.c
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+
