@@ -43,6 +43,16 @@ bool isKeyword(char ch[]) {
 
 }
 
+bool isIdentifier(char ch[]) {
+    return false;
+}
+
+bool isOperator(char ch[]) {
+    return false;
+}
+
+
+
 
 
 //lexical analysis
