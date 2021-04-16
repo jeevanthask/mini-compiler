@@ -1,0 +1,3 @@
+F:/MIGHTY SOYYA/current projects/Mini Compiler/cmake-build-debug/CMakeFiles/Mini_Compiler.dir
+F:/MIGHTY SOYYA/current projects/Mini Compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/MIGHTY SOYYA/current projects/Mini Compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
